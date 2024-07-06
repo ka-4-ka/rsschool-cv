@@ -39,4 +39,4 @@ function cutCube(volume,n){
 * English *(intermediate)*
 * Japanese *(beginner)*
 ## Project 
-[CV file](https://ka-4-ka.github.io/rsschool-cv/cv)
+[CV file](https://kate-rin-a.github.io/rsschool-cv/cv)
