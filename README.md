@@ -1,1 +1,1 @@
-[rsschool-cv](https://ka-4-ka.github.io/rsschool-cv/cv)
+[rsschool-cv](https://kate-rin-a.github.io/rsschool-cv/cv)
